@@ -1,6 +1,2 @@
-Thanks for downloading this template!
-
-Template Name: Avilon
-Template URL: https://bootstrapmade.com/avilon-bootstrap-landing-page-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+Simple website I made for group project to display our work throughout semester.
+Can be viewed at https://dancocking.github.io/RepurposedPotato/
